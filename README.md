@@ -1,5 +1,10 @@
-<div align="center">
-  <h1>Hey, I'm evvsk!</h1>
+<img src="https://avatars.githubusercontent.com/evvskx" width="100px" align="right">
+
+### Hey, I'm evvsk!
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=evvskx.evvskx&)
+
+<div align="left">
   Full-Stack Developer born in Italy with a strong passion for technology, interested in web, AI, software and game development.
 </div>
 
