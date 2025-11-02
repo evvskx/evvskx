@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Hey, I'm evvsk!</h1>
+  Full-Stack Developer born in Italy with a strong passion for technology, interested in web, AI, software and game development.
 </div>
 
 <br>
